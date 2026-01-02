@@ -11,7 +11,7 @@ import subprocess
 from bs4 import BeautifulSoup
 
 # ================= 配置区域 =================
-MY_QQ = '2817162250'        # 你的QQ号
+MY_QQ = '10086'        # 你的QQ号
 CHECK_INTERVAL = 5         # 轮询间隔(秒)
 CK_SCRIPT = "ck.py"         # 获取Cookie的脚本名
 CONFIG_FILE = "config.json" # 配置文件名
@@ -198,4 +198,5 @@ class QZoneMain:
 
 if __name__ == "__main__":
     app = QZoneMain()
+
     app.run()
