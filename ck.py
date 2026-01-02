@@ -17,7 +17,7 @@ if sys.platform == "win32":
     import winreg
 
 # ================= 配置区域 =================
-MY_QQ = '2817162250' 
+MY_QQ = '10086' 
 CONFIG_FILE = "config.json"
 DRIVER_NAME = "chromedriver.exe"
 
@@ -232,4 +232,5 @@ if __name__ == "__main__":
     if len(sys.argv) > 1 and sys.argv[1] == 'hm':
         is_hm = True
         
+
     get_cookie(is_manual_mode=is_hm)
