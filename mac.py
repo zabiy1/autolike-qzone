@@ -128,7 +128,7 @@ class QZoneRobot:
         except: return False
 
     def run(self):
-        print("\n" + "="*40 + "\n       空间妹点赞助手 (Mac终极稳定版)\n" + "="*40 + "\n")
+        print("\n" + "="*40 + "\n       空间妹点赞助手 (riya自用版)\n" + "="*40 + "\n")
         while True:
             if not self.check_cookie_valid():
                 if not self.login_via_playwright():
@@ -173,3 +173,4 @@ if __name__ == "__main__":
     qq_num = input("请输入你的QQ号：").strip()
     if qq_num:
         QZoneRobot(qq_num).run()
+
