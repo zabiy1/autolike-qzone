@@ -1,5 +1,8 @@
 # 空间妹自动点赞助手 (Mac/Win) 使用手册
 
+> **如果可以的话关注一下主包B站**：[https://space.bilibili.com/2031](https://space.bilibili.com/2031)
+
+> **项目地址**：[zabiy1/autolike-qzone](https://github.com/zabiy1/autolike-qzone/)
 > **项目说明**：本工具 Fork 自 GitHub 仓库 [auto-liking-qzone-windows](https://github.com/help660vip/auto-liking-qzone-windows)，感谢原作者的制作，针对 macOS 环境及稳定性进行了适配与重构。
 
 ---
