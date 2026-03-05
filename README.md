@@ -1,10 +1,21 @@
 # 空间妹自动点赞助手 (Mac/Win) 使用手册
 
-> **项目说明**：本工具 Fork 自 GitHub 仓库 [auto-liking-qzone-windows](https://github.com/help660vip/auto-liking-qzone-windows)，针对 macOS 环境及稳定性进行了适配与重构。
+> **项目说明**：本工具 Fork 自 GitHub 仓库 [auto-liking-qzone-windows](https://github.com/help660vip/auto-liking-qzone-windows)，感谢原作者的制作，针对 macOS 环境及稳定性进行了适配与重构。
 
 ---
 
-### 🚀 使用步骤
+### 软件下载
+
+* **点击下载**：[OneDrive](http://u.awsl.tv/wrP2k6)
+* **解压密码**：`伞霙99`
+
+> **注意**：如果遇到压缩包无法解压，请务必使用第三方专业解压工具：
+> * **Windows 推荐**：[WinRAR](https://www.win-rar.com/) 或 [7-Zip](https://www.7-zip.org/download.html)
+> * **macOS 推荐**：[Keka](https://www.keka.io/zh-cn/)
+
+---
+
+### 使用步骤
 
 1. **启动程序**
    双击运行 `空间妹自动点赞助手.exe` (Mac用户请运行打包好的可执行文件)。
@@ -21,7 +32,7 @@
 
 ---
 
-### 💡 多账号支持方案
+### 多账号支持方案
 
 如果你需要同时挂载多个 QQ 账号，请执行以下操作：
 * 在电脑中创建不同的文件夹（例如：`账号1`、`账号2`）。
@@ -30,7 +41,7 @@
 
 ---
 
-### ⚠️ 免责声明（必读）
+### 免责声明（必读）
 
 使用本软件即代表您已阅读并同意以下条款：
 
